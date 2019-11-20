@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "homepage": "./",
+  "author": {
+    "name": "David Faria",
+    "email": "davidfaria89@gmail.com"
+  },
   "dependencies": {
     "@rocketseat/unform": "^1.6.1",
     "axios": "^0.19.0",
