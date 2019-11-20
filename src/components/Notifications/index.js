@@ -56,7 +56,7 @@ export default function Notifications() {
       )
     );
   }
-  console.tron.log('Component: HasUnread: -> ', hasUnread);
+  // console.tron.log('Component: HasUnread: -> ', hasUnread);
   // console.tron.log('Component: Visible: -> ', visible);
   return (
     <Container>
